@@ -1,5 +1,5 @@
 var express = require("express");
-var method = require("method-override");
+// var method = require("method-override");
 var body = require("body-parser");
 var exphbs = require("express-handlebars");
 var mongoose = require("mongoose");
