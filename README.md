@@ -67,6 +67,8 @@ mongoose.connect(MONGODB_URI);
 * Handlebars
 * MongDB
 * Mongoose
+* Body-Parser
+* Cheerio
 
 
 #### Click for link 
